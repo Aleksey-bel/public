@@ -3,7 +3,7 @@ age = []
 total_cost = 0
 if number_of_tickets > 10:
     print("К сожалению, Вы не можете приобрести более 10 билетов в одном заказе!")
-    print("-------")
+    print("------")
     print("Попробуйте снова=)")
 else:
     for i in range(0, number_of_tickets):
